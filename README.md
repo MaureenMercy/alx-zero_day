@@ -1,1 +1,1 @@
-Wayetu's first readme
+Watetu's first readme
