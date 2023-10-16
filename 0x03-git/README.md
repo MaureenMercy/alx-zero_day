@@ -1,1 +1,5 @@
-My first readme
+# GIT
+
+## Description
+
+  Git assignment is stored here
